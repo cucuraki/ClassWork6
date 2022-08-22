@@ -6,4 +6,5 @@
     <string name="remember_me">remember me</string>
     <string name="repeat_password">repeat password</string>
     <string name="register">register</string>
+    <string name="log_out">Log out</string>
 </resources>
