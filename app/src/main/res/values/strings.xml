@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClassWork6</string>
+    <string name="login">log in</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="remember_me">remember me</string>
+    <string name="repeat_password">repeat password</string>
+    <string name="register">register</string>
+</resources>
